@@ -20,3 +20,16 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes req
    ```bash
    git clone https://github.com/hdalvarpa/Reto-Playwright-HeberAlvarez.git
    cd Reto-Playwright-HeberAlvarez
+
+2. **Cambiar a la Rama Correcta**
+   Cambia a la rama Feature/Reto_Playwright_HeberAlvarez donde se encuentra el código del proyecto:
+   git checkout Feature/Reto_Playwright_HeberAlvarez
+
+3. **Instalar Dependencias**
+   Instala las dependencias necesarias para el proyecto:
+   npm install
+   
+4. **Ejecutar las Pruebas Automatizadas**
+Para ejecutar las pruebas automatizadas, utiliza el siguiente comando:
+
+   npx playwright test
